@@ -1,0 +1,19 @@
+{
+  "name": "cata",
+  "description": "Components for SUIT CSS",
+  "version": "0.1.0",
+  "style": "index.css",
+  "files": [
+    "index.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/raulghm/cata.git"
+  },
+  "keywords": [
+    "browser",
+    "css-components",
+    "suitcss",
+    "style"
+  ]
+}
